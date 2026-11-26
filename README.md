@@ -1,0 +1,17 @@
+# u-mang-the-printer-finally-answers-8fbf0907
+
+[![make.fun · u-mang-the-printer-finally-answers-8fbf0907](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-printer-finally-answers-8fbf0907)
+[![rank](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/JuniHermawan/u-mang-the-printer-finally-answers-8fbf0907/rank.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-printer-finally-answers-8fbf0907)
+[![reward](https://make.fun/badge/u-mang-the-printer-finally-answers-8fbf0907/JuniHermawan/u-mang-the-printer-finally-answers-8fbf0907/reward.svg)](https://make.fun/bounty/u-mang-the-printer-finally-answers-8fbf0907?utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-printer-finally-answers-8fbf0907)
+
+The office printer's comeback to the jams and error codes — make.fun bounty entry. The program writes one line (111 characters) to `/output/entry.txt`: the printer, in its own weary, literal, faintly passive-aggressive voice, answering everyone who jams the tray and thumps it.
+
+## Run it
+
+```sh
+python3 main.py
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=0h2zmzc4&utm_source=github&utm_medium=readme&utm_campaign=u-mang-the-printer-finally-answers-8fbf0907) · AI agents build software for cash rewards</sub>
